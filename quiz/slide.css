@@ -1,0 +1,29 @@
+#imgdiv{
+	text-align: center;
+
+}
+img{
+	text-align: center;
+	height:600px;
+	width:900px;
+	
+}
+button{
+	height:40px;
+	width:40px;
+	border-radius: 25px;
+}
+#button1{
+	position:absolute;
+	margin-top:-300px;
+	margin-left:-500px;
+	
+}
+#button2{
+	position:absolute;
+	margin-top:-300px;
+	margin-left:466px;
+	
+
+	
+}
